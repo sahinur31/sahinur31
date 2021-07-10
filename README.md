@@ -1,7 +1,6 @@
-### Hi there I am Nurar Nahar Sahinur👋
 
-
-**I am a  ✨ Javascript ✨ Lover.
+<h1 align="center">Hi 👋, I'm Nurar Nahar Sahinur</h1>
+<h3 align="center">A  passionate and goal oriented Front-End Developer</h3>
 
 Here are some ideas to get you started:
 
@@ -12,8 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want
 - 📫 How to reach me: **sahinur4841@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Nurar Nahar Sahinur</h1>
-<h3 align="center">A  passionate and goal oriented Front-End Developer</h3>
 
 
 ### Connect with me:
