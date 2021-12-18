@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting project
 - 🤔 I’m looking for collaborate with any web developer
 - 💬 Ask me about anything you want
